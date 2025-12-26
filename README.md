@@ -1,18 +1,5 @@
-Great choice — adding a **preview section** makes your GitHub README much more engaging. Since your project is a terminal‑based game, the best way to show it off is with either:
 
-- A **GIF recording** of gameplay (using tools like [asciinema](https://asciinema.org/) or [terminalizer](https://github.com/faressoft/terminalizer)), or  
-- A **screenshot** of the terminal while playing.
-
-Here’s the updated README with a **Preview section** included:
-
-```markdown
 # 🎯 Python Number Guessing Game
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
-![GitHub stars](https://img.shields.io/github/stars/your-username/guessing-game?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/guessing-game?style=social)
 
 A fun and interactive **number guessing game** built with Python.  
 The computer randomly selects a number between **1 and 100**, and the player has **6 attempts** to guess it correctly.
